@@ -19,7 +19,7 @@ vertical lines of different color, identifying the most probable base frequencie
 with some markers: 1) signal snr 2) quality of detection (probability of proper signal) etc.
 
 As a hint, there should not be more than 25 transmissions in this sample.
-As a hint, there are strong transmission around frequencies: 11600 , 19500, 29500, 42500
+As a hint, there are strong transmission around frequencies: 4600 , 29900, 47600, 37700
 All transmission are around 2200-3000 hz wide. There could be overlapping transmissions, no need to solve them.
 
 Program must be located in root directory. Any programming language is ok, if it is performant enough.
